@@ -4,10 +4,19 @@
 
 Este script Python foi desenvolvido como parte de um projeto de transmissão ao vivo interativa, que se integra com um aplicativo. Ele é usado para capturar e gerenciar eventos de presentes durante uma transmissão ao vivo no TikTokLive. Este script é uma parte de um sistema maior que inclui um aplicativo correspondente. Para obter suporte ou discutir o projeto, entre em contato com o desenvolvedor em **produtorfabiosilva@gmail.com**.
 
+## Vídeo Demonstrativo
+
+Assista a uma demonstração de uso desse projeto no vídeo abaixo:
+
+<video width="320" height="240" controls>
+  <source src="nome_do_seu_video.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
+
+
 ## Pré-requisitos
 
 - **Python 3.6 ou superior**
-- **Conta TikTokLive:** Você precisa ter uma conta TikTokLive e definir suas credenciais no código.
 - **Banco de dados do Firebase:** O script está integrado com o Firebase para armazenamento em tempo real dos dados dos presentes.
 
 ## Instalação
